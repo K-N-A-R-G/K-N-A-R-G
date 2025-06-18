@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @K-N-A-R-G, just Knarg. Python-developer (NOT web-developer).
-- 👀 I’m interested in multi-threaded and asynchronous programs for processing information,
--  as well as constructing logical circuits to control many external consumers in real-time.
-- 🌱 I’m currently learning SQLite, PostgreSQL, PgAdmin, SQLAlchemy, Rust.
-- 💞️ I would be glad to participate in a project like
-- 'housing complex management' or something similar.
-- 📫 How to reach me: knarg0000@gmail.com, https://t.me/+rNRHj_zTmRRjZGYy
+## 👋 Hi, I’m @K-N-A-R-G — just Knarg
+
+I'm a Python developer (not a web developer), passionate about building reliable, efficient, and well-structured programs — especially those that work with data, run in parallel, or interact with the real world.
+
+### 👀 Areas of Interest
+
+- Development of **multi-threaded** and **asynchronous** systems for intensive data processing.
+- Design of **logical control flows** and **circuit-like decision systems** to manage multiple external devices or consumers in real-time.
+- Creating **tooling** and **automation** for local workflows — from system utilities to data analyzers.
+
+### 🌱 Currently Learning
+
+- SQL-based technologies: **SQLite**, **PostgreSQL**, **PgAdmin4**.
+- Programmatic DB interaction with **SQLAlchemy**.
+- System-level programming in **Rust**.
+- Docker-based isolation and environment management.
+- Deepening knowledge of **data parsing**, **logging**, and **visualization** (Matplotlib, Seaborn, Tkinter).
+
+### 💡 Would Love to Join
+
+I'm especially interested in contributing to projects like:
+
+- **Housing or facility management systems**
+- **Smart control of physical infrastructure**
+- **Data collection + analysis pipelines for local/offline use**
+- Anything where **performance**, **reliability**, and **clear architecture** matter more than UI glitz
+
+### 📫 Contact
+
+- Email: **knarg0000@gmail.com**
+- Telegram (special group for guests): [Link](https://t.me/+rNRHj_zTmRRjZGYy)
+
+---
 
 
 <!---
