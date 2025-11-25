@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/9ad0867b-f020-472b-a6be-2e0566a2a22d" />
+</p>
+
 # Hi, I'm Knarg — Python Developer / Data Engineer
 
 I work on practical, reliable, and well-structured software: data processing pipelines, analytical tooling, automation utilities, and system-level components. My focus is on clarity, performance, and predictable architecture rather than UI polish.
