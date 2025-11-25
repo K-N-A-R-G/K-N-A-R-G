@@ -1,39 +1,35 @@
-## 👋 Hi, I’m @K-N-A-R-G — just Knarg
+# Hi, I'm Knarg — Python Developer / Data Engineer
 
-I'm a Python developer (not a web developer), passionate about building reliable, efficient, and well-structured programs — especially those that work with data, run in parallel, or interact with the real world.
+I work on practical, reliable, and well-structured software: data processing pipelines, analytical tooling, automation utilities, and system-level components. My focus is on clarity, performance, and predictable architecture rather than UI polish.
 
-### 👀 Areas of Interest
+## Areas of Expertise
 
-- Development of **multi-threaded** and **asynchronous** systems for intensive data processing.
-- Design of **logical control flows** and **circuit-like decision systems** to manage multiple external devices or consumers in real-time.
-- Creating **tooling** and **automation** for local workflows — from system utilities to data analyzers.
+- Python development with emphasis on modular architecture, typing, maintainability.
+- Data processing pipelines: ETL/ELT, normalization, validation, transformation.
+- SQL-based analytics with SQLite and PostgreSQL.
+- Concurrency and parallel execution (threads, multiprocessing, asyncio).
+- Backend logic: FastAPI applications, structured request/response flows.
+- Developer tooling: CLI utilities, automation scripts, Git workflow helpers.
+- System-level engineering on Linux (Mint XFCE).
 
-### 🌱 Currently Learning
+## Current Technical Focus
 
-- SQL-based technologies: **SQLite**, **PostgreSQL**, **PgAdmin4**.
-- Programmatic DB interaction with **SQLAlchemy**.
-- System-level programming in **Rust**.
-- Docker-based isolation and environment management.
-- Deepening knowledge of **data parsing**, **logging**, and **visualization** (Matplotlib, Seaborn, Tkinter).
+- Building full ETL pipelines for analytical workloads.
+- Template-driven data normalization for CSV/JSON sources.
+- Analytical layers using Pandas + SQL.
+- Backend components for data-heavy tasks.
+- Docker-based reproducible environments.
+- Rust for low-level logic and performance-sensitive tooling.
 
-### 💡 Would Love to Join
+## Types of Projects I’m Interested In
 
-I'm especially interested in contributing to projects like:
+- Data collection, cleaning, and analysis systems.  
+- Industrial/process automation logic and structured control flows.  
+- Local-first and offline-capable analytical tools.  
+- Infrastructure-related platforms with clear execution paths and reliability requirements.  
+- Any project where correctness, performance, and architecture matter more than visual effects.
 
-- **Housing or facility management systems**
-- **Smart control of physical infrastructure**
-- **Data collection + analysis pipelines for local/offline use**
-- Anything where **performance**, **reliability**, and **clear architecture** matter more than UI glitz
+## Contact
 
-### 📫 Contact
-
-- Email: **knarg0000@gmail.com**
-- Telegram (special group for guests): [Link](https://t.me/+rNRHj_zTmRRjZGYy)
-
----
-
-
-<!---
-K-N-A-R-G/K-N-A-R-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: **knarg0000@gmail.com**  
+- Telegram (guest chat): https://t.me/+rNRHj_zTmRRjZGYy  
